@@ -1,0 +1,7 @@
+CUSTUMER NAME:       purvajit             
+CONTACT NO.:         87654321             
+BILL NO.:            123                  
+
+Product ID           Product Name         MRP                  Quantity             Total               
+40238                Redbull              120                  2                                     240
+-                    -                    -                    Total:                                240

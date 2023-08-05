@@ -1,0 +1,7 @@
+CUSTUMER NAME:       165                  
+CONTACT NO.:         987654321            
+BILL NO.:            1228                 
+
+Product ID           Product Name         MRP                  Quantity             Total               
+40238                Redbull              120                  12                                   1440
+-                    -                    -                    Total:                               1440

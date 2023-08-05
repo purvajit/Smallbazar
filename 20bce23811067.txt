@@ -1,0 +1,10 @@
+CUSTUMER NAME:       20bce238             
+CONTACT NO.:         987654321            
+BILL NO.:            11067                
+
+Product ID           Product Name         MRP                  Quantity             Total               
+11111                Lays chips           30                   5                                     150
+40238                Redbull              120                  5                                     600
+40234                Parle G              10                   3                                      30
+40165                Dairy milk cho.      15                   10                                    150
+-                    -                    -                    Total:                                930
